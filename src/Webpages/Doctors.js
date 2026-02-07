@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import "./Doctor.css";
 // ==================== DOCTORS PAGE ====================
 // This component manages doctor information and schedules
 // Receptionists can view doctor details and availability
