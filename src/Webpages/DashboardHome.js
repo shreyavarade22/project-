@@ -45,7 +45,7 @@ function DashboardHome() {
       {/* ==================== PAGE HEADER ==================== */}
       {/* Displays welcome message and date */}
       <div className="dashboard-header">
-        <h1>Welcome to Reception Dashboard</h1>
+        <h1>Welcome!</h1>
         <p className="subtitle">
           {new Date().toLocaleDateString("en-US", {
             weekday: "long",
